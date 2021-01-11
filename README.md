@@ -6,6 +6,14 @@
 
 Set up a virtualenv and install pip packages.
 
+## Activating virtual environment
+
+```command line
+$ python3 -m venv VillagerBot  #put name of your virtual environment name here, as an example I put it as VillagerBot
+$ VillagerBot\Scripts\activate
+(VillagerBot) $   # Virtual environment is activated
+```
+
 ```bash
 python3 -m venv villager-bot
 source villager-bot/bin/activate
